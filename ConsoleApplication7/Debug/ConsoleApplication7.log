@@ -1,0 +1,4 @@
+﻿  ConsoleApplication7.cpp
+C:\Users\derta\source\repos\ConsoleApplication7\ConsoleApplication7\ConsoleApplication7.cpp(103,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\derta\source\repos\ConsoleApplication7\ConsoleApplication7\ConsoleApplication7.cpp(81): warning C4715: Max_Number: значение возвращается не при всех путях выполнения
+  ConsoleApplication7.vcxproj -> C:\Users\derta\source\repos\ConsoleApplication7\Debug\ConsoleApplication7.exe
